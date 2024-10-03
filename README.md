@@ -5,7 +5,7 @@
 ## Installation
 1. Clonez le dépôt :
     ```sh
-    git clone https://github.com/votre-utilisateur/Zanzibar.git
+    git clone https://github.com/votre-utilisateur/zanzibar.git
     ```
 2. Ouvrez le fichier `Zanzibar.sln` avec Visual Studio.
 3. Restaurez les packages NuGet si nécessaire.
