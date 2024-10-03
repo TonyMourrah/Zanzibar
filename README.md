@@ -1,6 +1,6 @@
 # Zanzibar
 ## Description
-Un jeu qui simule des lancers de dés et présente les résultats instantanément. Il inclut diverses règles, des systèmes de score, ainsi que des éléments supplémentaires qui ajoutent de la profondeur à l'expérience de jeu.
+ Bienvenue sur Zanzibar, un jeu qui simule des lancers de dés et présente les résultats instantanément. Il inclut diverses règles, des systèmes de score, ainsi que des éléments supplémentaires qui ajoutent de la profondeur à l'expérience de jeu.
 
 ## Installation
 1. Clonez le dépôt :
