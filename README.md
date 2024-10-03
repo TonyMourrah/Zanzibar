@@ -1,7 +1,6 @@
 # Zanzibar
 ## Description
-Un jeu qui simule les lancers de dés et affiche les résultats en temps réel.
-Il comprend l'implémentation complète des règles du jeu, incluant les mécanismes de score, les pénalités et les différentes variations de jeu.
+Un jeu qui simule des lancers de dés et présente les résultats instantanément. Il inclut diverses règles, des systèmes de score, ainsi que des éléments supplémentaires qui ajoutent de la profondeur à l'expérience de jeu.
 
 ## Installation
 1. Clonez le dépôt :
